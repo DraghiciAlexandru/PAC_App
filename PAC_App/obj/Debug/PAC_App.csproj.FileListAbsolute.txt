@@ -1,0 +1,16 @@
+D:\C#\UI design\Dinamic\PAC_App\PAC_App\obj\Debug\PAC_App.csprojAssemblyReference.cache
+D:\C#\UI design\Dinamic\PAC_App\PAC_App\obj\Debug\PAC_App.Properties.Resources.resources
+D:\C#\UI design\Dinamic\PAC_App\PAC_App\obj\Debug\PAC_App.csproj.GenerateResource.cache
+D:\C#\UI design\Dinamic\PAC_App\PAC_App\bin\Debug\PAC_App.exe.config
+D:\C#\UI design\Dinamic\PAC_App\PAC_App\bin\Debug\PAC_App.exe
+D:\C#\UI design\Dinamic\PAC_App\PAC_App\bin\Debug\PAC_App.pdb
+D:\C#\UI design\Dinamic\PAC_App\PAC_App\obj\Debug\PAC_App.exe
+D:\C#\UI design\Dinamic\PAC_App\PAC_App\obj\Debug\PAC_App.pdb
+D:\C#\UIdesign\Dinamic\PAC_App\PAC_App\bin\Debug\PAC_App.exe.config
+D:\C#\UIdesign\Dinamic\PAC_App\PAC_App\bin\Debug\PAC_App.exe
+D:\C#\UIdesign\Dinamic\PAC_App\PAC_App\bin\Debug\PAC_App.pdb
+D:\C#\UIdesign\Dinamic\PAC_App\PAC_App\obj\Debug\PAC_App.csprojAssemblyReference.cache
+D:\C#\UIdesign\Dinamic\PAC_App\PAC_App\obj\Debug\PAC_App.Properties.Resources.resources
+D:\C#\UIdesign\Dinamic\PAC_App\PAC_App\obj\Debug\PAC_App.csproj.GenerateResource.cache
+D:\C#\UIdesign\Dinamic\PAC_App\PAC_App\obj\Debug\PAC_App.exe
+D:\C#\UIdesign\Dinamic\PAC_App\PAC_App\obj\Debug\PAC_App.pdb

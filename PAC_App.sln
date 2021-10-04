@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAC_App", "PAC_App\PAC_App.csproj", "{B6C92E8D-7E0B-40F3-867C-EC4003F12C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C92E8D-7E0B-40F3-867C-EC4003F12C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C92E8D-7E0B-40F3-867C-EC4003F12C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C92E8D-7E0B-40F3-867C-EC4003F12C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C92E8D-7E0B-40F3-867C-EC4003F12C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01A9E1A5-9DCD-49C5-9120-6880F758FD38}
+	EndGlobalSection
+EndGlobal
